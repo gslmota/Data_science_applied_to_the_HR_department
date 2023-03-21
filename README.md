@@ -33,19 +33,19 @@ pip install -r requirements.txt
 
 * Histogram
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/histogram.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/histogram.png)
 
 * Kernel Density Estimate
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/dist.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/dist.png)
 
 * Count Plot
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/ind.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/ind.png)
 
 * Box plot
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/boxplot.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/boxplot.png)
 
 
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 * Confusion Matrix
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/cmrd.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cmrd.png)
 
 
 
@@ -65,5 +65,5 @@ pip install -r requirements.txt
 
 * Confusion Matrix
 
-![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department/blob/main/imgs/cm.png)
+![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cm.png)
 
