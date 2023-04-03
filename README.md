@@ -67,3 +67,7 @@ pip install -r requirements.txt
 
 ![!imgs](https://github.com/gslmota/data_science_applied_to_the_HR_department./blob/main/imgs/cm.png)
 
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
+
